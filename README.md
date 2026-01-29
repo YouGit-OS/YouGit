@@ -1,43 +1,55 @@
 YouGit Linux
 Overview
 
-YouGit is an open-source Linux distribution that is developed, maintained, and governed entirely by its community. The project is built around transparency, collaboration, and shared ownership, ensuring that no single organization or entity controls the direction of the operating system.
+YouGit is an open-source Linux distribution founded and owned by a single lead developer, with development guided by community feedback and real-world user needs. The project is designed to prioritize usefulness, clarity, and stability while maintaining strong oversight to ensure safety and consistency.
 
-All development is carried out by verified contributors, a system designed to maintain high standards of quality, security, and reliability while still embracing the openness of the open-source model. Contributions are reviewed openly, and decisions are made through community discussion and consensus.
+Although YouGit welcomes community ideas and contributions, all official maintenance, releases, and final decisions are handled centrally. This structure allows the project to remain secure while still evolving in response to what the community actually wants and uses.
 
-Philosophy
+Development Philosophy
 
-YouGit is founded on the belief that the strongest software is built when users are also contributors. Rather than treating the operating system as a finished product, YouGit treats it as an evolving platform shaped by the people who use it.
+YouGit is built with a user-first mindset. Development is guided by community discussion, feedback, and clearly demonstrated needs rather than unnecessary complexity or feature overload.
 
-The project prioritizes:
+The goal is to deliver meaningful improvements that enhance the user experience, maintain system reliability, and avoid unnecessary additions that add maintenance burden without clear value.
 
-Open development and transparent decision-making
+Project Structure
 
-Community ownership and collaboration
+YouGit follows a centrally maintained, community-informed model:
 
-Code quality, security, and maintainability
+The project owner retains final authority over the codebase
 
-Long-term stability without sacrificing innovation
+Community members are encouraged to propose ideas and improvements
 
-Community & Contributions
+Verified contributors may submit code for review
 
-YouGit is 100% community-based. Anyone can participate in discussions, testing, and feedback. Development contributions are submitted by verified contributors to ensure accountability and consistency across the project.
+All changes are reviewed and approved before inclusion
 
-Verification does not exist to limit creativity, but to protect the integrity of the distribution while fostering a respectful and productive development environment.
+This approach ensures that community input shapes the direction of the distribution while maintaining a consistent and secure development process.
+
+Community Involvement
+
+The YouGit community plays an important role in shaping the project through:
+
+Feature proposals and discussion
+
+Bug reports and testing
+
+Feedback on usability and system design
+
+Community input directly influences development priorities, ensuring that changes serve a clear purpose and benefit the broader user base.
 
 Goals
 
-Provide a reliable and modern Linux experience
+Build a practical and reliable Linux distribution
 
-Encourage users to become contributors
+Prioritize features with clear user value
 
-Maintain a balance between flexibility and stability
+Maintain strong security and centralized maintenance
 
-Build a sustainable, community-driven ecosystem
+Create a transparent and respectful development environment
 
 Open Source
 
-YouGit is fully open source. All source code, tools, and documentation are publicly available, and the project welcomes collaboration from developers, designers, writers, and users alike.
+YouGit is fully open source. All source code is publicly available for transparency, review, and learning. Openness is a core value, paired with responsible oversight to protect the integrity of the system.
 
 Disclaimer
 
