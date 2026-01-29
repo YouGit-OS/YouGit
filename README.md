@@ -1,3 +1,5 @@
+
+<img src="YouGit.png">
 YouGit Linux
 Overview
 
